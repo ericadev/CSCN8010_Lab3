@@ -1,0 +1,4 @@
+[core]
+    remote = s3bucket
+['remote "s3bucket"']
+    url = https://us-east-2.console.aws.amazon.com/s3/buckets/dogsvscatssmall

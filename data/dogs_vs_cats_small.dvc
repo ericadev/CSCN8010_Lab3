@@ -1,0 +1,6 @@
+outs:
+- md5: 1e4dc9afbd0e043cdde65f3da4bef076.dir
+  size: 113839989
+  nfiles: 5000
+  hash: md5
+  path: dogs_vs_cats_small
